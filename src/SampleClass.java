@@ -9,6 +9,8 @@ public class SampleClass {
 		System.out.println("MK Sample5");
 		
 		System.out.println("MK Sample6");
+		
+		System.out.println("MK Sample7");
 
 	}
 
