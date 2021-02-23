@@ -11,6 +11,8 @@ public class SampleClass {
 		System.out.println("MK Sample6");
 		
 		System.out.println("MK Sample7");
+		
+		System.out.println("MK Sample8");
 
 	}
 
