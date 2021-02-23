@@ -14,7 +14,7 @@ public class SampleClass {
 		
 		System.out.println("MK Sample8");
 		
-		System.out.println("MK Sample9");
+		System.out.println("MK Sample99");
 
 	}
 
